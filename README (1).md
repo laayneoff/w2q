@@ -3,6 +3,7 @@
 ![](/LabW1/0_table.png)
 ### Задание №1
 Выберите из таблицы orders все заказы
+![1](https://github.com/user-attachments/assets/e61ea556-4789-4783-aa69-833c5e12cbec)
 
 ![](/LabW1/1.png)
 
