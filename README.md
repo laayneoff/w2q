@@ -44,12 +44,14 @@ SELECT id,sum FROM orders WHERE products_count > 3
 ### Задание №161
 
 #### Таблица
+![0_table](https://github.com/user-attachments/assets/dd2f4916-17d5-4ddf-aff2-d6735c86abb0)
 
 ![](/LabW2/161/0_table.png)
 
 1) Выберите из таблицы orders 3 самых дешевых заказа за всё время.
 Данные нужно отсортировать в порядке убывания цены.
 Отмененные заказы не учитывайте.
+![1](https://github.com/user-attachments/assets/d845dd44-8443-4e61-9a47-3ac9d3ee8361)
 
 ![](/LabW2/161/1.png)
 
@@ -59,6 +61,7 @@ select * from orders where status in('new','in_progress','delivery') order by su
 2) Выберите из таблицы orders 2 самых дорогих заказов за всё время.
 Данные нужно отсортировать в порядке убывания цены.
 Отмененные заказы не учитывайте.
+![2](https://github.com/user-attachments/assets/73f48bc6-a005-4500-86ba-350bff84d784)
 
 ![](/LabW2/161/2.png)
 
