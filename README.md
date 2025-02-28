@@ -1,5 +1,7 @@
 ## Лабораторная работа №1 [15.02.2025]
 ### Таблица
+![0_table](https://github.com/user-attachments/assets/226fda25-5ed4-4897-9166-fa21c75e2e0b)
+
 ![](/LabW1/0_table.png)
 ### Задание №1
 Выберите из таблицы orders все заказы
