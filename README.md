@@ -42,6 +42,7 @@ SELECT id,sum FROM orders WHERE products_count > 3
 ```
 ## Лабораторная работа №2 [22.02.2025]
 ### Задание №161
+
 #### Таблица
 
 ![](/LabW2/161/0_table.png)
