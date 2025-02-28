@@ -14,6 +14,7 @@ SELECT * FROM orders;
 ```
 ### Задание №2
 Выберите из таблицы orders все заказы кроме новых. У новых заказов status равен "new". Использовать in
+![2](https://github.com/user-attachments/assets/1933ce85-020e-4b17-959b-4fefb00f98af)
 
 ![](/LabW1/2.png)
 
@@ -22,6 +23,7 @@ SELECT * FROM orders WHERE status IN ('cancelled','in_progress','delivery')
 ```
 ### Задание №3
 Выберите из таблицы orders все новые и отмененные заказы. У отмененных заказов status равен "cancelled". У новых заказов status равен "new"
+![3](https://github.com/user-attachments/assets/95cea53b-b2ad-420c-a739-f7747a65002b)
 
 ![](/LabW1/3.png)
 
@@ -31,6 +33,7 @@ SELECT * FROM orders WHERE status = 'new' OR status = 'cancelled'
 ### Задание №4
 Выберите из таблицы orders все заказы содержащие более 3 товаров (products_count).
 Вывести нужно только номер (id) и сумму (sum) заказа
+![4](https://github.com/user-attachments/assets/db101ab0-177b-47cb-b5d0-cbf3977e8ca3)
 
 ![](/LabW1/4.png)
 
