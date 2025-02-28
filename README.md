@@ -89,17 +89,20 @@ insert into orders (id, products, sum) value (6, 4, 8000);
 
 ### Задание №167
 #### Таблица
+![0_table](https://github.com/user-attachments/assets/ac3e2dfd-99f1-4757-85b8-0d4d104581fb)
 
 ![](/LabW2/167/0_table.png)
 
 4) Добавьте в таблицу products новый товар — «VR-очки», стоимостью 70000 рублей в количестве (count) 2 штук.
-   
+   ![1](https://github.com/user-attachments/assets/d6835058-3e3a-4fe3-9e6c-c1c3a10e51fb)
+
 ![](/LabW2/167/1.png)
 
 ```
 insert into products (id, name, count, price) value (7, 'VR-очки', 2, 70000);
 ```
 #### Результат:
+![1_result](https://github.com/user-attachments/assets/0b029cad-414c-4ada-917f-d600ac888e66)
 
 ![](/LabW2/167/1_result.png)
 
