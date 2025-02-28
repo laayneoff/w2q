@@ -1,4 +1,6 @@
 ## Лабораторная работа №1 [15.02.2025]
+![0_table](https://github.com/user-attachments/assets/be81b43d-f04c-4131-b5ea-8f7220c58f53)
+
 ### Таблица
 ![](/LabW1/0_table.png)
 ### Задание №1
