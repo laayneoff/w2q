@@ -70,10 +70,12 @@ select * from orders where status in('new','in_progress','delivery') order by su
 ```
 ### Задание №166
 #### Таблица
+![0_table](https://github.com/user-attachments/assets/44bcce2f-3c87-4a97-8334-ff2523cc5a68)
 
 ![](/LabW2/166/0_table.png)
 
 3) Добавьте в таблицу orders данные о новом заказе стоимостью 8000 рублей. В заказе 4 товара (products).
+![1](https://github.com/user-attachments/assets/b27cabc3-4d24-4cbd-8572-ca39c22691ee)
 
 ![](/LabW2/166/1.png)
 
@@ -81,6 +83,7 @@ select * from orders where status in('new','in_progress','delivery') order by su
 insert into orders (id, products, sum) value (6, 4, 8000);
 ```
 #### Результат:
+![1_result](https://github.com/user-attachments/assets/3437e61d-04ff-4ca5-a2ac-90737f765c53)
 
 ![](/LabW2/166/1_result.png)
 
