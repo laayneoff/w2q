@@ -108,10 +108,12 @@ insert into products (id, name, count, price) value (7, 'VR-очки', 2, 70000)
 
 ### Задание №172
 #### Таблица
+![0_table](https://github.com/user-attachments/assets/d02acd94-2c5c-4ee5-948e-d20e8d293612)
 
 ![](/LabW2/172/0_table.png)
 
 5) В таблицу products внесли данные с ошибкой, вместо "PS5" в наименовании написали IMAC. Исправьте ошибку.
+![1](https://github.com/user-attachments/assets/28757bba-89db-4728-bb89-a752beacd007)
 
 ![](/LabW2/172/1.png)
 
@@ -119,5 +121,6 @@ insert into products (id, name, count, price) value (7, 'VR-очки', 2, 70000)
 update products set name='PS5' where id=7;
 ```
 #### Результат:
+![1_result](https://github.com/user-attachments/assets/caf048fb-bfd2-457a-abf1-43ccfbc1474e)
 
 ![](/LabW2/172/1_result.png)
